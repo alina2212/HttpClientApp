@@ -1,0 +1,66 @@
+2025-10-20 22:46:42 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
+2025-10-20 23:19:49 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos - статус 200
+2025-10-20 23:19:49 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos
+2025-10-20 23:20:32 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-20 23:20:32 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
+2025-10-20 23:21:05 [main] INFO : Данные взяты из кэша: https://jsonplaceholder.typicode.com/todos/1
+2025-10-20 23:21:23 [main] INFO : Данные взяты из кэша: https://jsonplaceholder.typicode.com/todos/1
+2025-10-20 23:21:23 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/2 - статус 200
+2025-10-20 23:21:23 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/2
+2025-10-21 08:59:32 [main] INFO : Запрос выполнен: POST https://jsonplaceholder.typicode.com/todos - статус 201
+2025-10-21 08:59:36 [main] INFO : Запрос выполнен: POST https://jsonplaceholder.typicode.com/todos - статус 201
+2025-10-21 08:59:55 [main] INFO : Запрос выполнен: POST https://jsonplaceholder.typicode.com/todos - статус 201
+2025-10-21 10:30:11 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-21 10:30:11 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
+2025-10-22 12:49:49 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-22 12:49:49 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
+2025-10-22 19:43:00 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-22 19:43:00 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
+2025-10-22 19:43:33 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos - статус 200
+2025-10-22 19:43:33 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos
+2025-10-22 19:43:49 [main] INFO : Запрос выполнен: POST https://jsonplaceholder.typicode.com/todos - статус 201
+2025-10-22 19:43:50 [main] INFO : Запрос выполнен: POST https://fake-json-api.mock.beeceptor.com/users - статус 200
+2025-10-22 19:45:00 [main] INFO : Запрос выполнен: DELETE https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-22 19:45:00 [main] INFO : Кэш очищен: https://jsonplaceholder.typicode.com/todos/1
+2025-10-22 19:45:01 [main] INFO : Запрос выполнен: DELETE https://fake-json-api.mock.beeceptor.com/users/1 - статус 200
+2025-10-22 19:58:48 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-22 19:58:48 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
+2025-10-22 19:58:49 [main] INFO : Запрос выполнен: GET https://fake-json-api.mock.beeceptor.com/users - статус 200
+2025-10-22 19:58:49 [main] INFO : Кэш обновлён: https://fake-json-api.mock.beeceptor.com/users
+2025-10-22 20:00:42 [main] INFO : Данные взяты из кэша: https://jsonplaceholder.typicode.com/todos/1
+2025-10-22 20:01:14 [main] INFO : Данные взяты из кэша: https://jsonplaceholder.typicode.com/todos/1
+2025-10-22 20:02:33 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-22 20:02:33 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
+2025-10-22 20:03:02 [main] INFO : Данные взяты из кэша: https://jsonplaceholder.typicode.com/todos/1
+2025-10-23 09:08:31 [main] INFO : Запрос выполнен: PUT https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-23 09:08:31 [main] INFO : Запрос выполнен: PUT https://fake-json-api.mock.beeceptor.com/users/1 - статус 200
+2025-10-23 09:08:43 [main] INFO : Запрос выполнен: POST https://jsonplaceholder.typicode.com/todos - статус 201
+2025-10-23 09:08:43 [main] INFO : Запрос выполнен: POST https://fake-json-api.mock.beeceptor.com/users - статус 200
+2025-10-23 09:08:51 [main] INFO : Запрос выполнен: DELETE https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-23 09:08:51 [main] INFO : Кэш очищен: https://jsonplaceholder.typicode.com/todos/1
+2025-10-23 09:08:51 [main] INFO : Запрос выполнен: DELETE https://fake-json-api.mock.beeceptor.com/users/1 - статус 200
+2025-10-27 15:07:50 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-27 15:07:50 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
+2025-10-27 15:07:56 [main] INFO : Данные взяты из кэша: https://jsonplaceholder.typicode.com/todos/1
+2025-10-27 15:08:07 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos - статус 200
+2025-10-27 15:08:07 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos
+2025-10-27 15:10:18 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/users - статус 200
+2025-10-27 15:10:18 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/users
+2025-10-27 15:10:59 [main] INFO : Запрос выполнен: POST https://jsonplaceholder.typicode.com/todos - статус 201
+2025-10-27 15:11:15 [main] INFO : Запрос выполнен: POST https://fake-json-api.mock.beeceptor.com/users - статус 200
+2025-10-27 15:34:57 [main] INFO : Запрос выполнен: PUT https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-27 15:34:58 [main] INFO : Запрос выполнен: PUT https://fake-json-api.mock.beeceptor.com/users/1 - статус 200
+2025-10-27 15:37:13 [main] INFO : Запрос выполнен: DELETE https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-27 15:37:13 [main] INFO : Кэш очищен: https://jsonplaceholder.typicode.com/todos/1
+2025-10-27 15:37:21 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-27 15:37:21 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
+2025-10-27 15:37:26 [main] INFO : Запрос выполнен: POST https://fake-json-api.mock.beeceptor.com/users - статус 200
+2025-10-27 15:38:05 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos - статус 200
+2025-10-27 15:38:05 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos
+2025-10-27 15:39:51 [main] INFO : Данные взяты из кэша: https://jsonplaceholder.typicode.com/todos/1
+2025-10-27 15:40:32 [main] INFO : Запрос выполнен: DELETE https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-27 15:40:32 [main] INFO : Кэш очищен: https://jsonplaceholder.typicode.com/todos/1
+2025-10-27 15:40:44 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-27 15:40:44 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
+2025-10-27 16:12:02 [main] INFO : Запрос выполнен: GET https://jsonplaceholder.typicode.com/todos/1 - статус 200
+2025-10-27 16:12:02 [main] INFO : Кэш обновлён: https://jsonplaceholder.typicode.com/todos/1
